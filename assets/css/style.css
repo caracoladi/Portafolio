@@ -1,0 +1,34 @@
+body {
+
+    font-family: 'PT Sans', sans-serif;
+}
+
+header {
+  background-image: url('../img/bg-hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+}
+
+.portada {
+  top: 30px;
+}
+
+h1,h2,h3{
+  font-family: 'Poppins', sans-serif;
+}
+
+.relleno{
+  background-image: url('../img/piz.jpg');
+}
+
+.carousel-indicators {
+  top: 50px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
